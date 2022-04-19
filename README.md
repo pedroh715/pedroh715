@@ -18,7 +18,7 @@
   
  ##
   
- ### Technologies I've used
+ ### Technologies I've used:
  <div style="display: inline-block">
   <img align="center" alt="pedro-html5" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="pedro-css3" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -33,7 +33,7 @@
   
   ##
   
-  ### Contact me
+  ### Contact me:
   
   <div>
     <a href="mailto:pedrohenriquecontato04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
